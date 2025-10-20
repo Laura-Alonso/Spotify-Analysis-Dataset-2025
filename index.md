@@ -8,6 +8,11 @@ It includes two main components:
 
 ---
 
+## 📘 Full Notebook
+[Open the analysis](./Spotify_Analysis.html)
+
+---
+
 ## 📈 Dashboard
 
 Interactive visualization with demographic, behavioral, and churn insights:  
