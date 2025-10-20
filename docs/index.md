@@ -9,7 +9,7 @@ It includes two main components:
 ---
 
 ## 📘 Full Notebook
-[Open the analysis](./Spotify_Analysis.html)
+[Open the analysis](./notebooks/Spotify_Analysis.html)
 
 ---
 
