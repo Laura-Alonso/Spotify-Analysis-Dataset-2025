@@ -1,0 +1,8 @@
+body {
+  background-color: #121212;    /* fondo oscuro tipo Spotify */
+  color: #e0e0e0;
+  font-family: 'Inter', sans-serif;
+}
+a, h1, h2 {
+  color: #1db954;              /* verde Spotify */
+}
